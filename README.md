@@ -11,6 +11,6 @@ The website provides details such as the purpose of the product, where to downlo
 
 ## Built With
 
-    HTML
+    HTML5
     CSS
     Bootstrap
